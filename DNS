@@ -1,0 +1,683 @@
+No.     Time        Source                Destination           Protocol Length Info
+     15 21.151312   192.168.0.101         192.168.0.1           DNS      76     Standard query 0xae30  A www.google.co.in
+
+Frame 15: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 57777 (57777), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+     19 21.634030   192.168.0.101         192.168.0.1           DNS      74     Standard query 0x53d3  A www.google.com
+
+Frame 19: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 50847 (50847), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+     20 21.636520   192.168.0.101         192.168.0.1           DNS      84     Standard query 0xf400  A www.googleadservices.com
+
+Frame 20: 84 bytes on wire (672 bits), 84 bytes captured (672 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 57185 (57185), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+     21 21.637468   192.168.0.101         192.168.0.1           DNS      75     Standard query 0x42d9  A www.gstatic.com
+
+Frame 21: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 64913 (64913), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+     38 81.894812   192.168.0.101         192.168.0.1           DNS      74     Standard query 0x3c6d  A www.amazon.com
+
+Frame 38: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 49337 (49337), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+     48 94.466231   192.168.0.101         192.168.0.1           DNS      74     Standard query 0x7b2f  A www.google.com
+
+Frame 48: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 61049 (61049), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+     68 125.870970  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xed12  A www.facebook.com
+
+Frame 68: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 57934 (57934), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+     99 198.202875  192.168.0.101         192.168.0.1           DNS      84     Standard query 0x4b86  A www.googleadservices.com
+
+Frame 99: 84 bytes on wire (672 bits), 84 bytes captured (672 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 57704 (57704), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    158 222.737686  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xbc3e  A www.thehindu.com
+
+Frame 158: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 60534 (60534), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    159 222.737729  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x05b0  A www.yahoo.com
+
+Frame 159: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 58295 (58295), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    161 230.630394  192.168.0.101         192.168.0.1           DNS      73     Standard query 0xa64a  A www.gmail.com
+
+Frame 161: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 52764 (52764), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    162 240.731235  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x4787  A www.amazon.in
+
+Frame 162: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 64515 (64515), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    177 243.129598  192.168.0.101         192.168.0.1           DNS      76     Standard query 0x296a  A www.abebooks.com
+
+Frame 177: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 61658 (61658), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    178 243.204151  192.168.0.101         192.168.0.1           DNS      73     Standard query 0xa213  A www.amazon.ca
+
+Frame 178: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 58465 (58465), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    179 243.237410  192.168.0.101         192.168.0.1           DNS      73     Standard query 0xad72  A www.amazon.cn
+
+Frame 179: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 56938 (56938), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    180 243.270387  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xc76a  A www.amazon.co.jp
+
+Frame 180: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 57318 (57318), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    181 243.308330  192.168.0.101         192.168.0.1           DNS      76     Standard query 0x9575  A www.amazon.co.uk
+
+Frame 181: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 65530 (65530), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    182 243.308484  192.168.0.101         192.168.0.1           DNS      74     Standard query 0xf8c0  A www.amazon.com
+
+Frame 182: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 50732 (50732), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    183 243.409096  192.168.0.101         192.168.0.1           DNS      77     Standard query 0x9a82  A www.amazon.com.au
+
+Frame 183: 77 bytes on wire (616 bits), 77 bytes captured (616 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 52440 (52440), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    184 243.410511  192.168.0.101         192.168.0.1           DNS      77     Standard query 0xf19e  A www.amazon.com.br
+
+Frame 184: 77 bytes on wire (616 bits), 77 bytes captured (616 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 50093 (50093), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    185 243.411252  192.168.0.101         192.168.0.1           DNS      77     Standard query 0x13f4  A www.amazon.com.mx
+
+Frame 185: 77 bytes on wire (616 bits), 77 bytes captured (616 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 63582 (63582), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    186 243.471269  192.168.0.101         192.168.0.1           DNS      73     Standard query 0xcce0  A www.amazon.de
+
+Frame 186: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 49159 (49159), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    187 243.586049  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x1035  A www.amazon.es
+
+Frame 187: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 50090 (50090), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    188 243.651573  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x2020  A www.amazon.fr
+
+Frame 188: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 60885 (60885), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    189 243.688800  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x2566  A www.amazon.it
+
+Frame 189: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 51504 (51504), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    190 243.730762  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x2f23  A www.amazon.nl
+
+Frame 190: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 61496 (61496), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    191 243.774230  192.168.0.101         192.168.0.1           DNS      81     Standard query 0x564f  A www.amazonbusiness.in
+
+Frame 191: 81 bytes on wire (648 bits), 81 bytes captured (648 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 62187 (62187), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    192 243.780779  192.168.0.101         192.168.0.1           DNS      75     Standard query 0xdfcc  A www.audible.com
+
+Frame 192: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 53590 (53590), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    193 243.790314  192.168.0.101         192.168.0.1           DNS      75     Standard query 0x2cfb  A www.diapers.com
+
+Frame 193: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 49744 (49744), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    194 243.884150  192.168.0.101         192.168.0.1           DNS      75     Standard query 0x7961  A www.dpreview.in
+
+Frame 194: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 61579 (61579), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    195 243.976960  192.168.0.101         192.168.0.1           DNS      71     Standard query 0x306e  A www.imdb.in
+
+Frame 195: 71 bytes on wire (568 bits), 71 bytes captured (568 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 59505 (59505), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    196 244.042202  192.168.0.101         192.168.0.1           DNS      75     Standard query 0xc443  A www.junglee.com
+
+Frame 196: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 51584 (51584), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    197 244.078435  192.168.0.101         192.168.0.1           DNS      72     Standard query 0xd7f2  A www.look.com
+
+Frame 197: 72 bytes on wire (576 bits), 72 bytes captured (576 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 64934 (64934), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    198 244.125356  192.168.0.101         192.168.0.1           DNS      75     Standard query 0xd97b  A www.myhabit.com
+
+Frame 198: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 52588 (52588), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    199 244.162925  192.168.0.101         192.168.0.1           DNS      75     Standard query 0xf874  A www.shopbop.com
+
+Frame 199: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 55716 (55716), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    203 276.782020  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xbbf7  A www.flipkart.com
+
+Frame 203: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 55123 (55123), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    213 280.282952  192.168.0.101         192.168.0.1           DNS      84     Standard query 0xd833  A www.googleadservices.com
+
+Frame 213: 84 bytes on wire (672 bits), 84 bytes captured (672 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 62821 (62821), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    221 283.776637  192.168.0.101         192.168.0.1           DNS      74     Standard query 0x3b4c  A www.vizury.com
+
+Frame 221: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 54440 (54440), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    225 294.599706  192.168.0.101         192.168.0.1           DNS      72     Standard query 0x897a  A www.java.com
+
+Frame 225: 72 bytes on wire (576 bits), 72 bytes captured (576 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 52618 (52618), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    226 294.618900  192.168.0.101         192.168.0.1           DNS      76     Standard query 0x7e61  A www.google.co.in
+
+Frame 226: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 53035 (53035), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    227 294.943183  192.168.0.101         192.168.0.1           DNS      72     Standard query 0x897a  A www.java.com
+
+Frame 227: 72 bytes on wire (576 bits), 72 bytes captured (576 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 52618 (52618), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    235 328.603206  192.168.0.101         192.168.0.1           DNS      73     Standard query 0xc66f  A www.gmail.com
+
+Frame 235: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 54199 (54199), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    236 338.721746  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x2bbf  A www.quora.com
+
+Frame 236: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 59181 (59181), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    257 347.968238  192.168.0.101         192.168.0.1           DNS      84     Standard query 0x1aac  A www.google-analytics.com
+
+Frame 257: 84 bytes on wire (672 bits), 84 bytes captured (672 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 64271 (64271), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    262 382.376510  192.168.0.101         192.168.0.1           DNS      75     Standard query 0xf73e  A www.gstatic.com
+
+Frame 262: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 60640 (60640), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    290 445.314366  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xf0d9  A www.hdfcbank.com
+
+Frame 290: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 59400 (59400), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    291 445.374701  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xff03  A www.hdfcfund.com
+
+Frame 291: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 52825 (52825), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    293 445.620603  192.168.0.101         192.168.0.1           DNS      76     Standard query 0x3ac8  A www.hdfclife.com
+
+Frame 293: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 59551 (59551), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    294 445.620809  192.168.0.101         192.168.0.1           DNS      75     Standard query 0x965e  A www.hdfcsec.com
+
+Frame 294: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 50916 (50916), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    295 445.623602  192.168.0.101         192.168.0.1           DNS      80     Standard query 0x152e  A www.moneycontrol.com
+
+Frame 295: 80 bytes on wire (640 bits), 80 bytes captured (640 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 54248 (54248), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    297 445.963413  192.168.0.101         192.168.0.1           DNS      75     Standard query 0x965e  A www.hdfcsec.com
+
+Frame 297: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 50916 (50916), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    298 445.965624  192.168.0.101         192.168.0.1           DNS      76     Standard query 0x3ac8  A www.hdfclife.com
+
+Frame 298: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 59551 (59551), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    299 445.966611  192.168.0.101         192.168.0.1           DNS      80     Standard query 0x152e  A www.moneycontrol.com
+
+Frame 299: 80 bytes on wire (640 bits), 80 bytes captured (640 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 54248 (54248), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    301 450.122956  192.168.0.101         192.168.0.1           DNS      84     Standard query 0x2875  A www.googletagmanager.com
+
+Frame 301: 84 bytes on wire (672 bits), 84 bytes captured (672 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 58786 (58786), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    310 451.029581  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xddf6  A www.billdesk.com
+
+Frame 310: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 56065 (56065), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    313 451.103553  192.168.0.101         192.168.0.1           DNS      86     Standard query 0x0703  A www.hdfcbanksmartapply.com
+
+Frame 313: 86 bytes on wire (688 bits), 86 bytes captured (688 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 64736 (64736), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    314 451.181117  192.168.0.101         192.168.0.1           DNS      74     Standard query 0xcb48  A www.google.com
+
+Frame 314: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 60797 (60797), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    316 451.196199  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xde76  A www.facebook.com
+
+Frame 316: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 59362 (59362), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    319 451.854993  192.168.0.101         192.168.0.1           DNS      84     Standard query 0x6309  A www.googleadservices.com
+
+Frame 319: 84 bytes on wire (672 bits), 84 bytes captured (672 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 53768 (53768), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    324 487.098099  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x5968  A www.amazon.in
+
+Frame 324: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 58750 (58750), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    326 487.143019  192.168.0.101         192.168.0.1           DNS      75     Standard query 0x6314  A www.chumbak.com
+
+Frame 326: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 61638 (61638), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    327 487.156680  192.168.0.101         192.168.0.1           DNS      78     Standard query 0xb771  A www.coupondunia.in
+
+Frame 327: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 53753 (53753), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    328 487.186061  192.168.0.101         192.168.0.1           DNS      74     Standard query 0xa19d  A www.myntra.com
+
+Frame 328: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 53421 (53421), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    329 487.433764  192.168.0.101         192.168.0.1           DNS      74     Standard query 0xa05d  A www.rediff.com
+
+Frame 329: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 52213 (52213), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    330 487.434573  192.168.0.101         192.168.0.1           DNS      76     Standard query 0x911a  A www.snapdeal.com
+
+Frame 330: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 57228 (57228), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    331 487.809720  192.168.0.101         192.168.0.1           DNS      72     Standard query 0x30cb  A www.bing.com
+
+Frame 331: 72 bytes on wire (576 bits), 72 bytes captured (576 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 59225 (59225), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    355 506.801438  192.168.0.101         192.168.0.1           DNS      75     Standard query 0xfd8f  A www.twitter.com
+
+Frame 355: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 64606 (64606), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    382 547.635513  192.168.0.101         192.168.0.1           DNS      77     Standard query 0x87fb  A www.delhivery.com
+
+Frame 382: 77 bytes on wire (616 bits), 77 bytes captured (616 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 54796 (54796), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    385 578.922317  192.168.0.101         192.168.0.1           DNS      75     Standard query 0x46cd  A www.chumbak.com
+
+Frame 385: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 61391 (61391), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    386 587.073207  192.168.0.101         192.168.0.1           DNS      76     Standard query 0x848c  A www.facebook.com
+
+Frame 386: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 57202 (57202), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    388 589.558100  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xee3f  A www.google.co.in
+
+Frame 388: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 53826 (53826), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    391 644.827490  192.168.0.101         192.168.0.1           DNS      75     Standard query 0xc979  A www.chumbak.com
+
+Frame 391: 75 bytes on wire (600 bits), 75 bytes captured (600 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 56375 (56375), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    392 683.516436  192.168.0.101         192.168.0.1           DNS      76     Standard query 0xeef3  A www.facebook.com
+
+Frame 392: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 62996 (62996), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    393 684.259046  192.168.0.101         192.168.0.1           DNS      74     Standard query 0x5ff0  A www.google.com
+
+Frame 393: 74 bytes on wire (592 bits), 74 bytes captured (592 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 51941 (51941), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    399 684.769482  192.168.0.101         192.168.0.1           DNS      73     Standard query 0x2831  A www.amazon.in
+
+Frame 399: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 53839 (53839), Dst Port: 53 (53)
+Domain Name System (query)
+
+No.     Time        Source                Destination           Protocol Length Info
+    410 708.959766  192.168.0.101         192.168.0.1           DNS      73     Standard query 0xa451  A www.quora.com
+
+Frame 410: 73 bytes on wire (584 bits), 73 bytes captured (584 bits)
+Ethernet II, Src: HonHaiPr_01:2f:21 (2c:33:7a:01:2f:21), Dst: D-LinkIn_46:a3:e6 (bc:f6:85:46:a3:e6)
+Internet Protocol Version 4, Src: 192.168.0.101 (192.168.0.101), Dst: 192.168.0.1 (192.168.0.1)
+User Datagram Protocol, Src Port: 64852 (64852), Dst Port: 53 (53)
+Domain Name System (query)
